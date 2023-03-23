@@ -184,7 +184,7 @@ collections:
 Projects:
     output: true
     permalink: /:collection/:path/
-Server:
+Interests:
     output: true
     permalink: /:collection/:path/
 
@@ -239,7 +239,7 @@ defaults:
   # _Server
   - scope:
       path: ""
-      type: Server
+      type: Interests
     values:
       layout: talk
       author_profile: true
