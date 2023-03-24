@@ -17,9 +17,11 @@ I have a broad interest in interdisciplinary design activities, from industrial 
 
 Researcher
 ======
-HCI 
+Design ：I have a wide range of interests in the field of HCI, from mixed reality and haptic interfaces to human-computer interaction evaluation methods. I believe that HCI is the key technology for the next generation.
 
-I have a wide range of interests in the field of HCI, from mixed reality and haptic interfaces to human-computer interaction evaluation methods. I believe that HCI is the key technology for the next generation.
+HCI ：I have a wide range of interests in the field of HCI, from mixed reality and haptic interfaces to human-computer interaction evaluation methods. I believe that HCI is the key technology for the next generation.
+
+Robotic ：I have a wide range of interests in the field of HCI, from mixed reality and haptic interfaces to human-computer interaction evaluation methods. I believe that HCI is the key technology for the next generation.
 
 <!-- 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
