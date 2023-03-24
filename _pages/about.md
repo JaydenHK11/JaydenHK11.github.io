@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. .
+My past experience includes: working with computational and user-centred design methods to solve human-centred problems; prototyping VR and AR experiences through programming and electronic hardware design; and learning about multiple disciplines to create novel interactions.
 
 Designer
 ======
